@@ -10,26 +10,18 @@ using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
 using System.Windows.Shapes;
 
 namespace Veza_Desktop
 {
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    /// Interaction logic for TalkWindow.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class TalkWindow : Window
     {
-        public MainWindow()
+        public TalkWindow()
         {
             InitializeComponent();
-        }
-
-        private void ButtonClicked(object sender, RoutedEventArgs e)
-        {
-            TalkWindow win2 = new TalkWindow();
-            win2.Show();
-            this.Close();
         }
     }
 }

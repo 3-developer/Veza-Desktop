@@ -5,8 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Veza_Desktop"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="Veza" Height="450" Width="800">
     <Grid>
-        
+        <Button Content="Open Window" Click="ButtonClicked" Height="25" HorizontalAlignment="Left" Margin="342,198,0,0" Name="button1" VerticalAlignment="Top" Width="100" />
     </Grid>
 </Window>

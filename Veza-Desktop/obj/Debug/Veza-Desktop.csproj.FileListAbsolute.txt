@@ -1,0 +1,17 @@
+C:\Users\Farhan Aslam\source\repos\Veza-Desktop\Veza-Desktop\obj\Debug\Veza-Desktop.csprojAssemblyReference.cache
+C:\Users\Farhan Aslam\source\repos\Veza-Desktop\Veza-Desktop\obj\Debug\MainWindow.g.cs
+C:\Users\Farhan Aslam\source\repos\Veza-Desktop\Veza-Desktop\obj\Debug\TalkWindow.g.cs
+C:\Users\Farhan Aslam\source\repos\Veza-Desktop\Veza-Desktop\obj\Debug\App.g.cs
+C:\Users\Farhan Aslam\source\repos\Veza-Desktop\Veza-Desktop\obj\Debug\Veza-Desktop_MarkupCompile.cache
+C:\Users\Farhan Aslam\source\repos\Veza-Desktop\Veza-Desktop\obj\Debug\Veza-Desktop_MarkupCompile.lref
+C:\Users\Farhan Aslam\source\repos\Veza-Desktop\Veza-Desktop\bin\Debug\Veza-Desktop.exe.config
+C:\Users\Farhan Aslam\source\repos\Veza-Desktop\Veza-Desktop\bin\Debug\Veza-Desktop.exe
+C:\Users\Farhan Aslam\source\repos\Veza-Desktop\Veza-Desktop\bin\Debug\Veza-Desktop.pdb
+C:\Users\Farhan Aslam\source\repos\Veza-Desktop\Veza-Desktop\obj\Debug\MainWindow.baml
+C:\Users\Farhan Aslam\source\repos\Veza-Desktop\Veza-Desktop\obj\Debug\TalkWindow.baml
+C:\Users\Farhan Aslam\source\repos\Veza-Desktop\Veza-Desktop\obj\Debug\Veza-Desktop.g.resources
+C:\Users\Farhan Aslam\source\repos\Veza-Desktop\Veza-Desktop\obj\Debug\Veza_Desktop.Properties.Resources.resources
+C:\Users\Farhan Aslam\source\repos\Veza-Desktop\Veza-Desktop\obj\Debug\Veza-Desktop.csproj.GenerateResource.cache
+C:\Users\Farhan Aslam\source\repos\Veza-Desktop\Veza-Desktop\obj\Debug\Veza-Desktop.csproj.CoreCompileInputs.cache
+C:\Users\Farhan Aslam\source\repos\Veza-Desktop\Veza-Desktop\obj\Debug\Veza-Desktop.exe
+C:\Users\Farhan Aslam\source\repos\Veza-Desktop\Veza-Desktop\obj\Debug\Veza-Desktop.pdb
